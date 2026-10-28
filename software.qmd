@@ -1,0 +1,69 @@
+---
+title: "Software"
+---
+
+A selection of my open-source software contributions is shown below. For the full list, visit my [GitHub profile](https://github.com/nicomeyer96).
+
+<!-- software-list:start -->
+
+<article class="software-card">
+<div class="software-card-heading">
+<h2>Qiskit-Torch-Module</h2>
+<div class="software-stars" role="img" aria-label="10 GitHub stars" title="GitHub stars">★ 10</div>
+</div>
+<p class="software-description">prototyping quantum neural networks with Qiskit and PyTorch.</p>
+<p class="software-links"><a href="https://github.com/nicomeyer96/qiskit-torch-module">GitHub</a>
+<a href="https://pypi.org/project/qiskit-torch-module/">PyPI</a>
+<a href="https://github.com/munich-quantum-software-stack/Component-Catalog/blob/3f555a2e5e7f030080676403784f6242f35f594c/_components/qiskit-torch-module.md">MQSS catalog entry</a></p>
+</article>
+
+<article class="software-card">
+<div class="software-card-heading">
+<h2>Variational LSE Solver</h2>
+<div class="software-stars" role="img" aria-label="10 GitHub stars" title="GitHub stars">★ 10</div>
+</div>
+<p class="software-description">variational quantum linear-system solvers.</p>
+<p class="software-links"><a href="https://github.com/nicomeyer96/variational-lse-solver">GitHub</a>
+<a href="https://pypi.org/project/variational-lse-solver/">PyPI</a>
+<a href="https://github.com/munich-quantum-software-stack/Component-Catalog/blob/3f555a2e5e7f030080676403784f6242f35f594c/_components/variational-lse-solver.md">MQSS catalog entry</a></p>
+</article>
+
+<article class="software-card">
+<div class="software-card-heading">
+<h2>QRL Benchmark</h2>
+<div class="software-stars" role="img" aria-label="7 GitHub stars" title="GitHub stars">★ 7</div>
+</div>
+<p class="software-description">benchmarking quantum reinforcement learning.</p>
+<p class="software-links"><a href="https://github.com/nicomeyer96/qrl-benchmark">GitHub</a>
+<a href="https://github.com/munich-quantum-software-stack/Component-Catalog/blob/3f555a2e5e7f030080676403784f6242f35f594c/_components/qrl-benchmark.md">MQSS catalog entry</a></p>
+</article>
+
+<article class="software-card">
+<div class="software-card-heading">
+<h2>VarEFTQC</h2>
+<div class="software-stars" role="img" aria-label="2 GitHub stars" title="GitHub stars">★ 2</div>
+</div>
+<p class="software-description">learning logical operations for quantum error-correction codes.</p>
+<p class="software-links"><a href="https://github.com/nicomeyer96/vareftqc">GitHub</a>
+<a href="https://github.com/munich-quantum-software-stack/Component-Catalog/blob/3f555a2e5e7f030080676403784f6242f35f594c/_components/vareftqc.md">MQSS catalog entry</a></p>
+</article>
+
+<article class="software-card">
+<div class="software-card-heading">
+<h2>Regularized QPG</h2>
+<div class="software-stars" role="img" aria-label="1 GitHub star" title="GitHub stars">★ 1</div>
+</div>
+<p class="software-description">Lipschitz regularization for quantum policy gradients.</p>
+<p class="software-links"><a href="https://github.com/nicomeyer96/regularized-qpg">GitHub</a></p>
+</article>
+
+<article class="software-card">
+<div class="software-card-heading">
+<h2>VarQEC</h2>
+<div class="software-stars" role="img" aria-label="1 GitHub star" title="GitHub stars">★ 1</div>
+</div>
+<p class="software-description">variational quantum error correction via state distinguishability.</p>
+<p class="software-links"><a href="https://github.com/nicomeyer96/varqec">GitHub</a></p>
+</article>
+
+<!-- software-list:end -->

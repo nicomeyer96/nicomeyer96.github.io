@@ -1,0 +1,86 @@
+---
+title: "Projects & Funding"
+---
+
+## Funding acquisition
+
+::: {.funding-highlight}
+<p class="funding-amount">Over €2 million</p>
+<p>In awarded funding for the Quantum Compilation Group at Fraunhofer IIS across six projects, which I helped secure as acquisition lead and contributor.</p>
+:::
+
+## Research projects
+
+I directly contribute and partially manage the following projects.
+
+::: {.project-card}
+### [Q-GeneSys](https://www.iis.fraunhofer.de/de/ff/lv/dataanalytics/anwproj/q-genesys.html)
+
+We develop early fault-tolerance methods for generative quantum models.
+
+<table class="project-facts"><tbody>
+<tr><th scope="row">Partners</th><td>Siemens AG · IQM Germany GmbH · OTH Regensburg</td></tr>
+<tr><th scope="row">Duration</th><td>October 2025 – September 2028</td></tr>
+<tr><th scope="row">Funding</th><td>Federal Ministry of Research, Technology and Space (BMFTR) · Application-Oriented Quantum Informatics</td></tr>
+</tbody></table>
+:::
+
+::: {.project-card}
+### NearQEC-RL
+
+<table class="project-facts"><tbody>
+<tr><th scope="row">Funding</th><td>Commissioned by the Dieter Schwarz Foundation through Fraunhofer HNFIZ</td></tr>
+</tbody></table>
+:::
+
+::: {.project-card}
+### [BayQS](https://www.iis.fraunhofer.de/de/profil/das-koennen-wir-fuer-sie-tun/zukunftsinitiativen/quantentechnologien/bayqs.html)
+
+The project explores hybrid quantum algorithms and quantum machine learning for wireless communication and localization.
+
+<table class="project-facts"><tbody>
+<tr><th scope="row">Partners</th><td>Fraunhofer AISEC · Fraunhofer IKS · LMU Munich · TU Munich · Leibniz Supercomputing Centre</td></tr>
+<tr><th scope="row">Duration</th><td>November 2020 – October 2027</td></tr>
+<tr><th scope="row">Funding</th><td>Bavarian Ministry of Economic Affairs (StMWi)</td></tr>
+</tbody></table>
+:::
+
+::: {.project-card}
+### [Bench-QC](https://www.iis.fraunhofer.de/de/profil/das-koennen-wir-fuer-sie-tun/zukunftsinitiativen/quantentechnologien/bench-qc.html)
+
+The project developed modular benchmarks for industrial quantum-computing applications.
+
+<table class="project-facts"><tbody>
+<tr><th scope="row">Partners</th><td>Fraunhofer IKS · BMW AG · Quantinuum GmbH · Machine Learning Reply GmbH · OptWare GmbH</td></tr>
+<tr><th scope="row">Duration</th><td>January 2023 – June 2026</td></tr>
+<tr><th scope="row">Funding</th><td>Munich Quantum Valley · High-Tech Agenda Bayern</td></tr>
+</tbody></table>
+:::
+
+## Advisory and consulting roles
+
+My involvement in the following projects is advisory or consultative.
+
+::: {.project-card}
+### [QC-Train](https://www.iis.fraunhofer.de/en/ff/lv/dataanalytics/anwproj/qc-train.html)
+
+The project develops quantum-computing methods for more efficient training of foundation models.
+
+<table class="project-facts"><tbody>
+<tr><th scope="row">Partners</th><td>infoteam Software AG · OptWare GmbH</td></tr>
+<tr><th scope="row">Duration</th><td>July 2026 – June 2029</td></tr>
+<tr><th scope="row">Funding</th><td>Free State of Bavaria · Bavarian Collaborative Research Program “Digitalization” (BayVFP)</td></tr>
+</tbody></table>
+:::
+
+::: {.project-card}
+### [QACI](https://www.iis.fraunhofer.de/de/profil/das-koennen-wir-fuer-sie-tun/zukunftsinitiativen/quantentechnologien/qaci.html)
+
+QACI develops quantum algorithms and open-source tools for applications, cloud services, and infrastructure.
+
+<table class="project-facts"><tbody>
+<tr><th scope="row">Partners</th><td>Fraunhofer AISEC · Fraunhofer IISB · Fraunhofer IKS · LMU Munich · TU Munich · Leibniz Supercomputing Centre</td></tr>
+<tr><th scope="row">Duration</th><td>October 2021 – September 2026</td></tr>
+<tr><th scope="row">Funding</th><td>Munich Quantum Valley · High-Tech Agenda Bayern</td></tr>
+</tbody></table>
+:::

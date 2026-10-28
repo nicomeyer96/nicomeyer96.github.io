@@ -1,0 +1,22 @@
+---
+title: "Contact & Impressum"
+---
+
+## Contact
+
+For professional inquiries, email [nico.meyer@iis.fraunhofer.de](mailto:nico.meyer@iis.fraunhofer.de).
+
+You can also find me on [GitHub](https://github.com/nicomeyer96), [Google Scholar](https://scholar.google.de/citations?user=szfFv98AAAAJ&hl=de), and [LinkedIn](https://linkedin.com/in/nicomeyer96).
+
+## Impressum
+
+Responsible for the content of this personal website:
+
+Nico Meyer  
+Äußere Brucker Straße 130  
+91052 Erlangen  
+Germany
+
+Email: [nico.meyer1996@gmx.de](mailto:nico.meyer1996@gmx.de)
+
+This is a personal website; it is not an official Fraunhofer IIS publication.

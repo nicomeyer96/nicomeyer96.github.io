@@ -1,0 +1,277 @@
+---
+title: "Talks & Academic Service"
+---
+
+:::: {.talk-list}
+
+## 2026
+
+::: {.contribution-card}
+**IEEE International Conference on Quantum Computing and Engineering (QCE)**
+
+<p class="contribution-meta">Toronto, Ontario, Canada · September 2026</p>
+
+<dl class="contribution-roles">
+<dt>Contributed talk</dt><dd>Learning to Concatenate Quantum Codes</dd>
+<dt>Poster</dt><dd>Variational Early Fault-Tolerant Quantum Computing</dd>
+<dt>Organizing committee</dt><dd>4th International Workshop on Quantum Machine Learning</dd>
+</dl>
+:::
+
+::: {.contribution-card}
+**FTQC4Nsc Symposium**
+
+<p class="contribution-meta">Heilbronn, Germany · July 2026</p>
+
+<dl class="contribution-roles">
+<dt>Poster</dt><dd>Discovering Logical Operations for Arbitrary QEC Codes with Machine Learning</dd>
+</dl>
+:::
+
+::: {.contribution-card}
+**Pattern Recognition Symposium (PRS)**
+
+<p class="contribution-meta">Duderstadt, Germany · July 2026</p>
+
+<dl class="contribution-roles">
+<dt>Contributed talk</dt><dd>Discovering Logical Operations for Arbitrary Quantum Error Correction Codes with Machine Learning</dd>
+</dl>
+:::
+
+::: {.contribution-card}
+**IEEE International Conference on Quantum Control, Computing, and Learning (qCCL)**
+
+<p class="contribution-meta">Aalborg, Denmark · July 2026</p>
+
+<dl class="contribution-roles">
+<dt>Contributed talk</dt><dd>Optimized Compilation of Logical Clifford Circuits</dd>
+<dt>Poster</dt><dd>ML-Driven QEC: Noise-Tailored Codes and Logical Gates for Early Fault Tolerance</dd>
+</dl>
+:::
+
+::: {.contribution-card}
+**Beyond Silicon 2026: The Future of Computing**
+
+<p class="contribution-meta">Nuremberg, Germany · April 2026</p>
+
+<dl class="contribution-roles">
+<dt>Poster</dt><dd>Compilation as the Linchpin for Scalable Quantum Computing</dd>
+</dl>
+:::
+
+::: {.contribution-card}
+**Professorship appointment interview (W1 tenure track) in Quantum Computing, University of Stuttgart**
+
+<p class="contribution-meta">Germany · March 2026</p>
+
+<dl class="contribution-roles">
+<dt>Scientific talk</dt><dd>Machine-Learned Fault Tolerance: Tailoring Quantum Error-Correcting Codes to Noise</dd>
+<dt>Teaching talk</dt><dd>Kompilierung von Quantenschaltkreisen: Routing unter Konnektivitätsbeschränkungen</dd>
+</dl>
+:::
+
+## 2025
+
+::: {.contribution-card}
+**Quantinuum seminar**
+
+<p class="contribution-meta">Remote · November 2025</p>
+
+<dl class="contribution-roles">
+<dt>Invited talk</dt><dd>Learning Encodings by Maximizing State Distinguishability</dd>
+</dl>
+:::
+
+::: {.contribution-card}
+**Munich Quantum Software Forum**
+
+<p class="contribution-meta">Munich, Germany · October 2025</p>
+
+<dl class="contribution-roles">
+<dt>Pitch and poster</dt><dd>Quantum Middleware with AI-Enhanced Solutions</dd>
+</dl>
+:::
+
+::: {.contribution-card}
+**IEEE International Conference on Quantum Computing and Engineering (QCE)**
+
+<p class="contribution-meta">Albuquerque, New Mexico, USA · September 2025</p>
+
+<dl class="contribution-roles">
+<dt>Poster</dt><dd>Variational Quantum Error Correction</dd>
+<dt>Organizing committee</dt><dd>3rd International Workshop on Quantum Machine Learning</dd>
+</dl>
+:::
+
+::: {.contribution-card}
+**International Conference on Machine Learning (ICML)**
+
+<p class="contribution-meta">Vancouver, British Columbia, Canada · July 2025</p>
+
+<dl class="contribution-roles">
+<dt>Poster</dt><dd>Benchmarking Quantum Reinforcement Learning</dd>
+</dl>
+:::
+
+::: {.contribution-card}
+**Sommersitzung des Bayerischen KI-Rats**
+
+<p class="contribution-meta">Nuremberg, Germany · July 2025</p>
+
+<dl class="contribution-roles">
+<dt>Poster</dt><dd>Benchmarking Quantum Reinforcement Learning</dd>
+</dl>
+:::
+
+::: {.contribution-card}
+**ML4QT Symposium**
+
+<p class="contribution-meta">Heilbronn, Germany · July 2025</p>
+
+<dl class="contribution-roles">
+<dt>Contributed talk</dt><dd>Variational QEC: Learning Noise-Adaptive Encoding Schemes with ML</dd>
+</dl>
+:::
+
+::: {.contribution-card}
+**Pattern Recognition Symposium (PRS)**
+
+<p class="contribution-meta">Remote participation · July 2025</p>
+
+<dl class="contribution-roles">
+<dt>Contributed talk</dt><dd>Learning Encodings by Maximizing State Distinguishability</dd>
+</dl>
+:::
+
+::: {.contribution-card}
+**Kipu Quantum seminar**
+
+<p class="contribution-meta">Remote · April 2025</p>
+
+<dl class="contribution-roles">
+<dt>Invited talk</dt><dd>Quantum Error Correction and Fault Tolerance</dd>
+</dl>
+:::
+
+## 2024
+
+::: {.contribution-card}
+**IEEE International Conference on Quantum Computing and Engineering (QCE)**
+
+<p class="contribution-meta">Montréal, Québec, Canada · September 2024</p>
+
+<dl class="contribution-roles">
+<dt>Panelist</dt><dd>QML quo vadis?</dd>
+<dt>Session chair</dt><dd>Quantum Circuit Design and Analysis</dd>
+<dt>Contributed talk</dt><dd>Qiskit-Torch-Module: Fast Prototyping of Quantum Neural Networks</dd>
+<dt>Organizing committee</dt><dd>1st International Workshop on Quantum Computing and RL</dd>
+</dl>
+:::
+
+::: {.contribution-card}
+**2nd International Workshop on QML: From Research to Practice**
+
+<p class="contribution-meta">Montréal, Québec, Canada · September 2024</p>
+
+<dl class="contribution-roles">
+<dt>Contributed talk</dt><dd>Comprehensive Library of Variational LSE Solvers</dd>
+</dl>
+:::
+
+::: {.contribution-card}
+**Fut3ch Symposium, Deggendorf Institute of Technology**
+
+<p class="contribution-meta">Deggendorf, Germany · January 2024</p>
+
+<dl class="contribution-roles">
+<dt>Invited talk</dt><dd>Machine Learning meets Quantum Computing</dd>
+</dl>
+:::
+
+## 2023
+
+::: {.contribution-card}
+**Quantum Future Award 2023, Federal Ministry for Education and Research**
+
+<p class="contribution-meta">Berlin, Germany · November 2023</p>
+
+<dl class="contribution-roles">
+<dt>Pitch</dt><dd>Variational Quantum Circuits for Policy Approximation</dd>
+</dl>
+:::
+
+::: {.contribution-card}
+**1st International Workshop on QML: From Foundations to Applications**
+
+<p class="contribution-meta">Bellevue, Washington, USA · September 2023</p>
+
+<dl class="contribution-roles">
+<dt>Keynote</dt><dd>Quantum Reinforcement Learning – State of the Art, Challenges and Perspectives</dd>
+<dt>Contributed talk</dt><dd>Quantum Natural Policy Gradients: Towards Sample-Efficient RL</dd>
+</dl>
+:::
+
+::: {.contribution-card}
+**International Conference on Machine Learning (ICML)**
+
+<p class="contribution-meta">Honolulu, Hawaii, USA · July 2023</p>
+
+<dl class="contribution-roles">
+<dt>Poster</dt><dd>Quantum Policy Gradient Algorithm with Optimized Action Decoding</dd>
+</dl>
+:::
+
+::: {.contribution-card}
+**Workshop Optimization and Machine Learning, ADA Lovelace Center**
+
+<p class="contribution-meta">Waischenfeld, Germany · March 2023</p>
+
+<dl class="contribution-roles">
+<dt>Poster</dt><dd>Improving the Performance of QRL with Classical Post-Processing</dd>
+</dl>
+:::
+
+::: {.contribution-card}
+**Quromorphic Winter Workshop 2023, Max Planck Institute**
+
+<p class="contribution-meta">Erlangen, Germany · February 2023</p>
+
+<dl class="contribution-roles">
+<dt>Poster</dt><dd>Improving the Performance of QRL with Classical Post-Processing</dd>
+</dl>
+:::
+
+::::
+
+::: {.peer-review-section}
+
+## Peer review
+
+I have reviewed submissions for the following journals and conferences:
+
+### Journals and transactions
+
+<div class="review-venues">
+<span class="review-venue"><em>Quantum</em></span>
+<span class="review-venue"><em>ACM Transactions on Quantum Computing</em></span>
+<span class="review-venue"><em>Quantum Information Processing</em></span>
+<span class="review-venue"><em>Quantum Information &amp; Computation</em></span>
+<span class="review-venue"><em>IEEE Transactions on Quantum Engineering</em></span>
+<span class="review-venue"><em>Chinese Journal of Physics</em></span>
+<span class="review-venue"><em>IEEE Communications Letters</em></span>
+<span class="review-venue"><em>Knowledge-Based Systems</em></span>
+<span class="review-venue"><em>Neurocomputing</em></span>
+<span class="review-venue"><em>Transactions on Machine Learning Research</em></span>
+</div>
+
+### Conferences and workshops
+
+<div class="review-venues">
+<span class="review-venue">IEEE International Conference on Quantum Computing and Engineering (QCE, 2024–2026)</span>
+<span class="review-venue">Reinforcement Learning Conference (RLC, 2024–2025)</span>
+<span class="review-venue">Workshop on Quantum Artificial Intelligence &amp; Optimization (QAIO, 2025–2027)</span>
+<span class="review-venue">International Workshop on Quantum Computing and RL (QCRL, 2025–2026)</span>
+<span class="review-venue">Quantum AI and NLP Conference (QNLP-AI, 2026)</span>
+</div>
+
+:::

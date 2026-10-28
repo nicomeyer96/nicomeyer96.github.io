@@ -1,0 +1,73 @@
+---
+title: "Awards"
+---
+
+## 2026
+
+::: {.award-card}
+**Best Paper Award**
+
+IEEE International Conference on Quantum Control, Computing, and Learning (qCCL) · Aalborg, Denmark · July 2026
+
+Paper: *Optimized Compilation of Logical Clifford Circuits*
+:::
+
+::: {.award-card}
+**Best Presentation Award (2nd place)**
+
+Pattern Recognition Symposium (PRS) · Duderstadt, Germany · July 2026
+
+Talk: *Discovering Logical Operations for Arbitrary Quantum Error Correction Codes with Machine Learning*
+:::
+
+## 2025
+
+::: {.award-card}
+**Best Talk Award**
+
+ML4QT Symposium · Heilbronn, Germany · July 2025
+
+Talk: *Variational Quantum Error Correction: Learning Noise-Adaptive Encoding Schemes with ML*
+
+<p class="award-note">The award was endowed with €6,000 by the Dieter Schwarz Foundation.</p>
+:::
+
+## 2023
+
+::: {.award-card}
+**Finalist, Quantum Future Award (master's thesis)**
+
+Federal Ministry of Education and Research · Berlin, Germany · November 2023
+
+Thesis: *Variational Quantum Circuits for Policy Approximation*
+
+<p class="award-note">The award honors <em>outstanding innovative scientific work in the field of quantum technologies</em>.</p>
+:::
+
+::: {.award-card}
+**Best Paper Award (2nd place)**
+
+IEEE Quantum Week · Seattle, USA · September 2023
+
+Paper: *An Empirical Comparison of Optimizers for Quantum ML with SPSA-based Gradients*
+:::
+
+## 2020–2021
+
+::: {.award-card}
+**Deutschlandstipendium**
+
+FAU Erlangen-Nuremberg, Germany · October 2020–September 2021
+
+Sponsored by UniVersa Lebensversicherung a.G.
+:::
+
+## 2019
+
+::: {.award-card}
+**Best Teaching Award (3rd place)**
+
+FAU Erlangen-Nuremberg, Germany · November 2019
+
+Course: *Theorie der Programmierung*
+:::

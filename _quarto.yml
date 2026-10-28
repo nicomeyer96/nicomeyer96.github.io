@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+  pre-render: update-software.ts
+
+website:
+  title: "Nico Meyer"
+  site-url: "https://nicomeyer96.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: software.qmd
+        text: Software
+      - href: talks.qmd
+        text: Talks & Academic Service
+      - href: projects.qmd
+        text: Projects & Funding
+      - href: awards.qmd
+        text: Awards
+      - href: contact.qmd
+        text: Contact & Impressum
+    right:
+      - icon: github
+        href: https://github.com/nicomeyer96
+        aria-label: GitHub profile
+  page-footer:
+    center: '© Nico Meyer, <span id="copyright-year">2026</span> | [Impressum](contact.qmd#impressum)'
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    body-classes: subpage
+    include-after-body: footer-year.html
